@@ -1,3 +1,10 @@
+/*
+ * File Name: University.java
+ * Assignment: Lab 3 Exercise C
+ * Completed by: Moiz Bhatti
+ * Submission Date: July 18th, 2024
+ */
+
 package ca.ucalgary.ensf380;
 
 public abstract class Person {
